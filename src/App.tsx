@@ -1,10 +1,10 @@
 import "./App.css";
-import Matrix from "./exercises/matrix/Matrix";
+import Weave from "./exercises/weave/Weave";
 
 function App() {
   return (
     <div>
-      <Matrix />
+      <Weave />
     </div>
   );
 }
